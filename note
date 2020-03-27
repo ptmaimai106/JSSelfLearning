@@ -1,0 +1,11 @@
+I. Refs
+(https://viblo.asia/p/refs-trong-react-la-gi-va-mot-so-truong-hop-su-dung-refs-RnB5p4y65PG)
+(https://viblo.asia/p/refs-in-react-tat-ca-nhung-gi-ban-can-biet-V3m5WOgQ5O7)
+https://viblo.asia/p/reactjs-refs-3P0lPmkb5ox
+
+	Cung cấp cho chúng ta cách access đến các DOM nodes hoặc React elements được tạo ra trong method render 
+	1. Các trường hợp dùng refs 
+		- các data này không cần đưa vào state của component 
+		- trigger các transaction, animation : sử dụng ref khi 1 element cần trigger transaction/animation của component  
+		- tích hợp các third-party DOM library 
+		
